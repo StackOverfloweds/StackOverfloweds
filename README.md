@@ -12,9 +12,7 @@
 </p>
 </p>
 
-<p align="center">
-  <img src= "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xrbnM2dW53d2ptYnl1MnZ5ZndvZjEzeGM2Y2F1anppZHQya3I2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/izohnsJ4Ymslhhk2Bn/giphy.webp">
-</p>
+
 
 - 🔭 I’m currently working from Another Planet 
 
@@ -43,7 +41,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="looyaaa__" height="30" width="40" />
   </a>
   <a href="https://www.tiktok.com/ajazuu" target="_blank">
-    <img align="center" src="https://static-00.iconduck.com/assets.00/tik-tok-icon-1024x1024-zwq641op.png" alt="@ajazuu" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/?size=100&id=vXmXtbBOhqh2&format=png" alt="@ajazuu" height="30" width="40" />
   </a>
 </p>
 
